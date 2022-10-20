@@ -1,8 +1,8 @@
 {
   // editor
   "editor.wordWrap": "on",
-  "editor.fontSize": 18,
-  "editor.lineHeight": 30,
+  "editor.fontSize": 14,
+  "editor.lineHeight": 24,
   "editor.tabSize": 2,
   "editor.bracketPairColorization.enabled": true,
   "editor.guides.bracketPairs": true,
@@ -16,7 +16,7 @@
   // workbench
   "workbench.editor.enablePreview": false,
   "workbench.iconTheme": "material-icon-theme",
-  "workbench.colorTheme": "Omni",
+  "workbench.colorTheme": "Theme",
 
   // prettier
   "editor.defaultFormatter": "esbenp.prettier-vscode",
