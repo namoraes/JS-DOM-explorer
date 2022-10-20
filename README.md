@@ -45,6 +45,7 @@ Esse projeto está sob a licença MIT.
 
 <p>
 ## 📲 Contato
+  
 - ✉️ naty_amoraes@hotmail.com
 - 📝 https://www.linkedin.com/in/natalia-moraes-620796100/
 
