@@ -43,7 +43,9 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 
 Esse projeto está sob a licença MIT.
 
-</p>
+<p>
 ## 📲 Contato
 - ✉️ naty_amoraes@hotmail.com
 - 📝 https://www.linkedin.com/in/natalia-moraes-620796100/
+
+</p>
